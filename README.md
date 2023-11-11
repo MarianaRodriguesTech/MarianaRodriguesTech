@@ -1,6 +1,6 @@
 <img align="left" width="370px" height="420px" src= "https://github.com/MarianaRodriguesTech/MarianaRodriguesTech/assets/141480630/b02475f0-4041-4815-ae73-153473a3f246">
 
-## Olá, mundo! Estou fazendo um curso de Programação Web Full-Stack no Instituo da Oportunidade Social.
+## Olá, mundo! Estou fazendo curso de Programação Web Full-Stack no Instituto da Oportunidade Social.
 
 ## Tecnologias que estou aprendendo:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -8,8 +8,7 @@
 
 ## Encontrem-me:
 <!--usar a href para linkar-->
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href="www.linkedin.com/in/marianarodriguesprofissional" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </img>
 
@@ -24,8 +23,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área desejada (se não tiver ignore)</strong>. <br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá! Sou Mariana Rodrigues, graduada em Processos Gerenciais e movida por uma paixão pela eficiência e excelência nos negócios. Minha jornada teve início como Jovem Aprendiz de Escriturária, onde aprendi as bases sólidas da organização administrativa e desenvolvi habilidades de comunicação e colaboração.
+
+Minha trajetória aliada à experiência como Estagiária na Prefeitura de Porto Alegre, proporcionou-me uma base sólida na gestão administrativa e me ensinou a importância de otimizar procedimentos para alcançar resultados extraordinários.
+
+Além disso, estou atualmente imersa no mundo dos Sistemas para Internet, buscando constantemente ampliar meus horizontes tecnológicos e desenvolver soluções inovadoras para desafios digitais.
 </p>
 
 <p align="left">
