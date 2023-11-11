@@ -1,6 +1,7 @@
 <img align="left" width="370px" height="420px" src= "https://github.com/MarianaRodriguesTech/MarianaRodriguesTech/assets/141480630/b02475f0-4041-4815-ae73-153473a3f246">
 
-## Olá, mundo! Estou fazendo curso de Programação Web Full-Stack no Instituto da Oportunidade Social.
+## Olá, mundo! 
+## Bem vindo ao meu perfil GitHub 👋
 
 ## Tecnologias que estou aprendendo:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,11 +24,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Sou Mariana Rodrigues, graduada em Processos Gerenciais e movida por uma paixão pela eficiência e excelência nos negócios. Minha jornada teve início como Jovem Aprendiz de Escriturária, onde aprendi as bases sólidas da organização administrativa e desenvolvi habilidades de comunicação e colaboração.
+  Hello Devs, Sou Mariana, uma entusiasta da tecnologia e por programação. Atualmente, estou mergulhada em um emocionante curso de programação full stack, aprimorando minhas habilidades para criar soluções inovadoras e eficientes.
 
-Minha trajetória aliada à experiência como Estagiária na Prefeitura de Porto Alegre, proporcionou-me uma base sólida na gestão administrativa e me ensinou a importância de otimizar procedimentos para alcançar resultados extraordinários.
+🎓 Além disso, estou cursando faculdade de Sistemas para Internet, onde busco uma compreensão mais profunda dos fundamentos e das tendências que impulsionam a web moderna.
 
-Além disso, estou atualmente imersa no mundo dos Sistemas para Internet, buscando constantemente ampliar meus horizontes tecnológicos e desenvolver soluções inovadoras para desafios digitais.
+🚀 Este espaço no GitHub é meu playground digital, onde compartilho projetos, desafios e aprendizados. Estou sempre aberto a colaborações e feedback. Vamos construir o futuro juntos!
 </p>
 
 <p align="left">
