@@ -33,7 +33,7 @@
 
 <p align="left">
  
-  🦄 Objetivo: **Exemplo: aprendizagem contínua.**
+  🦄 Objetivo: aprendizagem contínua.
 </p>
 
 <p align="left">
