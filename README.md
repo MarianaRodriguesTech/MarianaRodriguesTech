@@ -3,7 +3,7 @@
 <header>
  
 ## Olá, mundo! 
-## Aqui é a Mari, sejam bem vindo ao meu GitHub!! 👋
+## Aqui é a Mari, sejam bem-vindos ao meu GitHub!! 👋
 
 </header>
 
