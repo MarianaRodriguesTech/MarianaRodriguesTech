@@ -1,3 +1,4 @@
+
 <img align="left" width="370px" height="420px" src= "https://github.com/MarianaRodriguesTech/MarianaRodriguesTech/assets/141480630/b02475f0-4041-4815-ae73-153473a3f246">
 
 <header>
@@ -21,7 +22,7 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
- <br>
+<br>
  
 <div align="center">
 
@@ -52,7 +53,7 @@
 
 <p align="left">
  
-   Acredito que o aprendizado é uma jornada contínua e colaborativa, e estou animada para contribuir com a comunidade e crescer profissionalmente ao lado de vocês<br><br>
+   Acredito que o aprendizado é uma jornada contínua e colaborativa, estou animada para contribuir com a comunidade e crescer profissionalmente ao lado de vocês <br><br>
    Vamos seguir em frente com entusiasmo e determinação!
 </p>
 
